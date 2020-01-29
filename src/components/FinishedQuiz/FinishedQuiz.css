@@ -13,14 +13,14 @@
     margin: 0;
 }
 
+.FinishedQuiz ul li i {
+    margin-left: 10px;
+}
+
 .success {
-    background: rgba(161, 240, 60, .7);
+    color: rgba(161, 240, 69, .7);
 }
 
 .error {
-    background: rgba(240, 87, 108, .7);
-}
-
-.FinishedQuiz ul li i {
-    margin-left: 10px;
+    color: rgba(240, 87, 108, .7);
 }
