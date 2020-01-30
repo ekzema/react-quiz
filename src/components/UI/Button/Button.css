@@ -29,7 +29,8 @@ button:disabled {
 }
 
 .success {
-    color: rgba(161, 240, 69, .1);
+    color: black;
+    background-color: #B2EB64;
 }
 
 .primary {
